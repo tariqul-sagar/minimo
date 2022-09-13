@@ -246,5 +246,20 @@ footer{
 .f_right ul li a:last-child{
 	padding-right: 0;
 }
-.f_right ul li a:hover{}
+.develop{
+	text-align: center;
+}
+.develop a{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
+	font-weight: 600;
+	color: #626262;
+	text-decoration: none;
+	transition: .33s ease-in-out;
+}
+.develop a:hover{
+	color: #000000;
+}
 /*Footer Section end*/
